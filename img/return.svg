@@ -1,0 +1,10 @@
+<svg class="header__info-link-icon" height="40" viewBox="0 0 40 40" width="40"
+xmlns="http://www.w3.org/2000/svg">
+    <g fill="none" fill-rule="evenodd" stroke="#FFF" stroke-linecap="round"
+    stroke-width="1.5">
+    <path
+        d="M20 9C13.925 9 9 13.925 9 20a10.98 10.98 0 0 0 4.213 8.658M20 31c6.075 0 11-4.925 11-11 0-3.49-1.625-6.6-4.16-8.615">
+    </path>
+    <path d="M26.5 15v-4h4M13.5 25v4h-4" stroke-linejoin="round"></path>
+    </g>
+</svg>
